@@ -1,9 +1,11 @@
+# This program is from the book python crash course by Eric Matthes
 # This is my soulition to the test at page 112. 6-11 cities.py
 
 cities = {"oslo" :
             {
                 "country" : "Norway",
                 "population" : "681,067",
+                "fact" : "Oslo residents are Norway's healthiest."
             },
           "new_york" :
             {
