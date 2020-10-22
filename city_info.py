@@ -28,7 +28,7 @@ for key, value in cities.items():
     country = value['country']
     fact = value['fact']
     
-    print(f"{key.title()} is located in {country}") 
+    print(f"{key.title()} is located in {country}")
     print(f"The population of {key.title()} is: {population}")
     print(f"One fact about {key.title()} is that: {fact}")
     
