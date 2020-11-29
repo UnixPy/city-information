@@ -1,5 +1,3 @@
-# This program is from the book python crash course by Eric Matthes
-# This is my soulition to the test at page 112. 6-11 cities.py
 
 cities = {"oslo" :
             {
